@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**minhtungo/minhtungo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My name is Minh Tu Ngo.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I would love the opportunity to learn and work alongside other like-minded professionals who are all collaborating to build the best website and software possible that meets the ever-changing needs of the end-user.
+
+Here are some technologies I've been used: 
+- React
+- JavaScript (ES6+)
+- TypeScript
+- Firebase
+- Node.js
+- Bootstrap
+- TailwindCSS
+
+
+## [Linkedin](https://www.linkedin.com/in/minhtu-ngo99/) 
