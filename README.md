@@ -6,7 +6,7 @@
 :nerd_face: Love learning new things.\
 :computer: I'm looking for new opportunities and challenges.\
 📫 You can shoot me an email at minhtu.ngo1999@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Resume](https://minhtungo.com//MinhNgoResume.pdf) for more details about me. I'm open to feedback and suggestions!\
+📄 &nbsp;Please have a look at my [Resume](https://minhtungo.com//MinhNgoResume.pdf) for more details about me. I'm open to feedback and suggestions!
 
 ## 🛠 &nbsp;Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
