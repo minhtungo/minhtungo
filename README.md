@@ -31,7 +31,7 @@
       alt="Minh Tu Ngo" />
   </a>
     <a href="mailto:minhtu.ngo1999@gmail.com" target="_blank"><img align="center"
-      src="https://img.shields.io/badge/Gmail-ff4d4d?style=for-the-badge&logo=gmail&logoColor=white"
+      src="https://img.shields.io/badge/Gmail-ff0000?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Gmail" />
   </a>
 </div>
