@@ -26,9 +26,13 @@
   <a href="https://minhtungo.com" target='_blank'><img align="center"
       src="https://img.shields.io/badge/Portfolio-404040?style=for-the-badge&logo=react&logoColor=white"
       alt="My Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/minhtungo" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/minhtungo" target="_blank"><img align="center"
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="Minh Tu Ngo" />
   </a>
-  </div>
+    <a href="mailto:minhtu.ngo1999@gmail.com" target="_blank"><img align="center"
+      src="https://img.shields.io/badge/Gmail-ff4d4d?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Gmail" />
+  </a>
+</div>
 
