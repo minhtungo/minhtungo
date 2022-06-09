@@ -17,11 +17,11 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 
 ### 🤝🏻 &nbsp;Connect with Me
-<p align="left>
+<div align="center">
   <a href="https://minhtungo.com" target='_blank'>🏠</a>
   <a href="https://www.linkedin.com/in/minhtungo" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" />
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="Minh Tu Ngo" />
   </a>
-  </p>
+  </div>
 
