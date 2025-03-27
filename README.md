@@ -6,7 +6,6 @@
 :nerd_face: Love learning new things.\
 :computer: I'm looking for new opportunities and challenges.\
 📫 You can shoot me an email at mn.minhtungo@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Resume](https://minhtungo.com//Minh-Tu-Ngo-Resume.pdf) for more details about me. I'm open to feedback and suggestions!
 
 <!-- ## 🛠 &nbsp;Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -23,14 +22,7 @@
 
 ## 🤝🏻 &nbsp;Connect with Me
 <div align="center">
-  <a href="https://minhtungo.com" target='_blank'><img align="center"
-      src="https://img.shields.io/badge/Portfolio-404040?style=for-the-badge&logo=react&logoColor=white"
-      alt="My Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/minhtungo" target="_blank"><img align="center"
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="Minh Tu Ngo" />
-  </a>
-    <a href="mailto:minhtu.ngo1999@gmail.com" target="_blank"><img align="center"
+    <a href="mailto:mn.minhtungo@gmail.com" target="_blank"><img align="center"
       src="https://img.shields.io/badge/Gmail-ff0000?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Gmail" />
   </a>
